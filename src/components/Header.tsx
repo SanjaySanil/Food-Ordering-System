@@ -22,9 +22,9 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-yellow-500 rounded-full flex items-center justify-center">
-              <span className="text-gray-900 font-bold text-sm">HC</span>
+              <span className="text-gray-900 font-bold text-sm">DG</span>
             </div>
-            <h1 className="text-xl font-bold text-yellow-400">Hotel Chillies</h1>
+            <h1 className="text-xl font-bold text-yellow-400">Nxt Adventure</h1>
           </div>
 
           <nav className="flex items-center space-x-4">
